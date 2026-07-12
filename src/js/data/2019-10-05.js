@@ -3,7 +3,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series Entry",
+    name: "Amber Glenn",
     key: "series",
     tooltip: "Check this to restrict to certain series.",
     checked: false,
